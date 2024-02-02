@@ -1,0 +1,39 @@
+#map {
+    height: 1350px;
+    width: 100%;
+}
+
+#clearButton {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    z-index: 1;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #fff;
+    border: 1px solid #333;
+    cursor: pointer;
+}
+
+#manualCoordinates {
+    position: absolute;
+    top: 50px;
+    left: 10px;
+    z-index: 1;
+    background-color: #fff;
+    border: 1px solid #333;
+    padding: 10px;
+    width: 200px;
+}
+
+#manualCoordinatesButton {
+    position: absolute;
+    top: 100px;
+    left: 10px;
+    z-index: 1;
+    padding: 10px;
+    font-size: 14px;
+    background-color: #fff;
+    border: 1px solid #333;
+    cursor: pointer;
+}
